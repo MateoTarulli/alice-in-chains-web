@@ -59,7 +59,7 @@ header {
     font-style: italic;
 }
 
-/* Grid de Integrantes */
+
 .integrantes-grid {
     display: grid;
     gap: 30px;
@@ -93,27 +93,27 @@ header {
     flex-shrink: 0;
 }
 
-/* Placeholders para imágenes - puedes reemplazar con imágenes reales */
+
 .jerry {
-    background-image: url(imagenes/cantrell.jpg);
+    background-image: url(cantrell.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .layne {
-    background-image: url(imagenes/layne.jpg);
+    background-image: url(layne.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .mike {
-    background-image: url(imagenes/mikeStarr.jpg);
+    background-image: url(mikeStarr.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .sean {
-    background-image: url(imagenes/seanKinney.jpg);
+    background-image: url(seanKinney.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -208,4 +208,5 @@ footer p {
     .logo {
         font-size: 1.8rem;
     }
+
 }
