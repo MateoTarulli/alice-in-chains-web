@@ -95,25 +95,25 @@ header {
 
 
 .jerry {
-    background-image: url(cantrell.jpg);
+    background-image: url(imagenes/cantrell.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .layne {
-    background-image: url(layne.jpg);
+    background-image: url(imagenes/layne.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .mike {
-    background-image: url(mikeStarr.jpg);
+    background-image: url(imagenes/mikeStarr.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .sean {
-    background-image: url(seanKinney.jpg);
+    background-image: url(imagenes/seanKinney.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -210,5 +210,6 @@ footer p {
     }
 
 }
+
 
 
